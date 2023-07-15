@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ramalan-emas-syd.github.io/sitemap.xml
